@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <div className="flex flex-col items-center justify-center min-h-screen bg-[#f0f2fe] font-poppins text-center">
+      <div className="flex flex-col items-center justify-center h-[90vh] bg-[#f0f2fe] font-poppins text-center">
         <p className="text-lg text-gray-700">
           Welcome back,{" "}
           <span className="font-semibold text-indigo-600">
